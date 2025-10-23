@@ -44,6 +44,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/blainsage/blainsage/output/snake.svg" alt="Snake animation" />
-
 ###
